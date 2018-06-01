@@ -1,0 +1,6 @@
+c:\users\chrish\documents\visual studio 2015\Projects\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\RaiseEventTestPlugin.dll
+c:\users\chrish\documents\visual studio 2015\Projects\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\RaiseEventTestPlugin.pdb
+c:\users\chrish\documents\visual studio 2015\Projects\RaiseEventTestPlugin\RaiseEventTestPlugin\bin\Debug\PhotonHivePlugin.dll
+c:\users\chrish\documents\visual studio 2015\Projects\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\RaiseEventTestPlugin.csprojResolveAssemblyReference.cache
+c:\users\chrish\documents\visual studio 2015\Projects\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\RaiseEventTestPlugin.dll
+c:\users\chrish\documents\visual studio 2015\Projects\RaiseEventTestPlugin\RaiseEventTestPlugin\obj\Debug\RaiseEventTestPlugin.pdb
